@@ -77,3 +77,9 @@ lib/
 
 ### IMPORTANT: This file contains sensitive information, hence not included in VCS
 src/secrets.py
+
+# Default .gitignore content added by dbt Cloud
+target/
+dbt_packages/
+logs/
+# end dbt Cloud content
